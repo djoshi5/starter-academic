@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Developed anomaly detection models for power grid sensor data 
-  * Developed short term load forecasts
-  * Successfully built statistical models to analyse paint droplet size distribution
+  * Developing anomaly detection models for power grid sensor data 
+  * Developing short term load forecasts
+  * Building statistical models to analyse paint droplet size distribution
   * Lead role programming Micro Phasor Measurement Unit via LabVIEW FPGA
   """
 
