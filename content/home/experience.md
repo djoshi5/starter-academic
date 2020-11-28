@@ -34,18 +34,18 @@ date_format = "Jan 2006"
   """
 
 #[[experience]]
-  title = "Teaching Assistant"
-  company = "UNC Charlotte"
-  company_url = "https://et.uncc.edu/"
-  location = "Charlotte, NC"
-  date_start = "2019-01-02"
-  date_end = "2019-07-01"
-  description = """
-  Responsibilities include:
+ # title = "Teaching Assistant"
+ # company = "UNC Charlotte"
+ # company_url = "https://et.uncc.edu/"
+ # location = "Charlotte, NC"
+ # date_start = "2019-01-02"
+ # date_end = "2019-07-01"
+ # description = """
+ # Responsibilities include:
   
-  * Managing 105 students for engineering technology for three courses, including Electronics I, Electronic Circuits and Devices, and Network Analysis
-  * Identifying structure for course management; supporting professor with grading and conducting lab sessions
-  """
+ # * Managing 105 students for engineering technology for three #courses, including Electronics I, Electronic Circuits and Devices, #and Network Analysis
+ # * Identifying structure for course management; supporting #professor with grading and conducting lab sessions
+  #"""
 
 [[experience]]
   title = "Assistant Engineer"
