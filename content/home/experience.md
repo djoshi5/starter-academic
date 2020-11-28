@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "UNC Charlotte"
   company_url = "https://www.uncc.edu/"
   location = "Charlotte, NC"
-  date_start = -2"2018-11-26"
+  date_start = "2018-11-26"
   date_end = "2020-05-08"
   description = """
   Responsibilities include:
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   * Lead role programming Micro Phasor Measurement Unit via LabVIEW FPGA
   """
 
-[[experience]]
+#[[experience]]
   title = "Teaching Assistant"
   company = "UNC Charlotte"
   company_url = "https://et.uncc.edu/"
   location = "Charlotte, NC"
-  date_start = -1"2019-01-02"
+  date_start = "2019-01-02"
   date_end = "2019-07-01"
   description = """
   Responsibilities include:
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   company = "Energize Sustainable Solutions"
   company_url = "http://www.energizeindia.com/"
   location = "Nagpur, India"
-  date_start = -3"2017-12-11"
+  date_start = "2017-12-11"
   date_end = "2018-07-31"
   description = """
   Responsibilities include:
