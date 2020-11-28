@@ -21,7 +21,7 @@ subtitle = ""
   description = "Python, MATLAB"
   
 [[feature]]
-  icon = "analytics"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Data Analytics"
   description = "Anomaly Detection, Timeseries Analysis, Predictive Analysis, Forecasting, Data Mining"  
