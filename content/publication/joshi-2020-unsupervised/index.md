@@ -1,13 +1,13 @@
 ---
 title: Unsupervised Learning for Critical Event Detection Using Historical PMU Data
-date: 2020
-authors: [Dhawal Joshi]
+date: 2020-05-29
+authors: ["admin", Dhawal Joshi]
 
 links:
   - icon_pack: fas
-    icon: book
+    icon: sticky-note
     name: report
-    url: 'https://www.umweltbundesamt.de/publikationen/roadmap-gas-fuer-die-energiewende-nachhaltiger'
+    url: 'https://search.proquest.com/docview/2407321680'
 
 image:
   placement: 1
