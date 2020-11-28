@@ -6,7 +6,7 @@ authors: ["admin", Dhawal Joshi]
 links:
   - icon_pack: fas
     icon: sticky-note
-    name: report
+    name: Publication Link
     url: 'https://search.proquest.com/docview/2407321680'
 
 image:
