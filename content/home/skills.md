@@ -15,31 +15,31 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-code"
+  icon = "code"
   icon_pack = "fas"
   name = "Languages"
   description = "Python, MATLAB"
   
 [[feature]]
-  icon = "fa-analystics"
+  icon = "analystics"
   icon_pack = "fas"
   name = "Data Analytics"
   description = "Anomaly Detection, Timeseries Analysis, Predictive Analysis, Forecasting, Data Mining"  
   
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "Database"
   description = "MySQL"
 
 [[feature]]
-  icon = "fa-chart-line"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "Hypothesis testing, Regression Models, K-NN"
 
 [[feature]]
-  icon = "fa-chart-pie"
+  icon = "chart-pie"
   icon_pack = "fas"
   name = "Visualization"
   description = "Tableau, matplotlib, seaborn, plotly, dash"
