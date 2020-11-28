@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Languages"
   description = "Python, MATLAB"
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "MySQL"
+  description = "MySQL, MS SQL"
 
 [[feature]]
   icon = "chart-line"
@@ -43,6 +43,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Visualization"
   description = "Tableau, matplotlib, seaborn, plotly, dash"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "Modelling Tools"
+  description = "pandas, numpy, tensorflow, scikit-learn, scipy, keras, adtk, pyswarms"
 
 # Uncomment to use emoji icons.
 # [[feature]]

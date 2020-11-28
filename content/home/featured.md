@@ -5,7 +5,7 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
@@ -46,18 +46,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "navy"
+  # color = "navy"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
    image = "background.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
+   image_darken = 0.8  # Darken the image? Range 0-1 where 0 is #transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-   text_color_light = true  
+   text_color_light = false  
   
 [advanced]
  # Custom CSS. 
