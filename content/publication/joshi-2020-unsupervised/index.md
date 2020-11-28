@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Learning for Critical Event Detection Using Historical PMU Data
 date: 2020-05-29
-authors: ["admin", Dhawal Joshi]
+authors: ["admin"]
 
 links:
   - icon_pack: fas
