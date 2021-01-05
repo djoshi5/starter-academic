@@ -57,11 +57,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Managing system compliance along with system integration design for Solar Water Dual Pumps and Solar Irrigation Pumps 
-  * Designing database to store financial and technical specifications of available components to improve quality of analytics for clients
-  * Creating data pipelines for optimizing financial and technical client specifications
-  * Conducting corporate client interactions to communicate social welfare created by the system
-  * Communicating technical details of Solar Rooftop design and installation with more than 20 clients
+    * Worked in an Agile environment
+    * Managing system compliance along with system integration design for Solar Water Dual Pumps and Solar Irrigation Pumps
+    * Worked on SQL scripts using MySQL to load CSR client data fetch relevant reports
+    * Conducting corporate client interactions to communicate social welfare created by the system
+    * Communicating technical details of Solar Rooftop design and installation with more than 20 clients
+    * Ensuring engineering system to meet the technical and financial requirements
   """
 
 +++
