@@ -57,12 +57,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-    * Worked in an Agile environment
-    * Managing system compliance along with system integration design for Solar Water Dual Pumps and Solar Irrigation Pumps
-    * Worked on SQL scripts using MySQL to load CSR client data fetch relevant reports
-    * Conducting corporate client interactions to communicate social welfare created by the system
-    * Communicating technical details of Solar Rooftop design and installation with more than 20 clients
-    * Ensuring engineering system to meet the technical and financial requirements
+  * Worked in an Agile environment
+  * Managing system compliance along with system integration design for Solar Water Dual Pumps and Solar Irrigation Pumps
+  * Worked on SQL scripts using MySQL to load CSR client data fetch relevant reports
+  * Conducting corporate client interactions to communicate social welfare created by the system
+  * Communicating technical details of Solar Rooftop design and installation with more than 20 clients
+  * Ensuring engineering system to meet the technical and financial requirements
   """
 
 +++
